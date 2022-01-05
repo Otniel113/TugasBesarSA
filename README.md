@@ -80,5 +80,8 @@ Hasil pengujian berupa waktu eksekusi dalam detik sebagai berikut
 Dapat juga dilihat pada tabel banyaknya data (sumbu X) dengan waktu eksekusi (sumbu Y)
 ![image](https://user-images.githubusercontent.com/57952404/148204508-68c9025c-fb57-4816-9034-67933538bc44.png)
 
+## Kompleksitas
+Kompleksitas dari algoritma Brute Force - SelectionSort adalah O(n^2) sedangkan kompleksitas dari algoritma Divide and Conquer - MergeSort adalah O(n log n)
+
 ## Lebih Lengkap
 Informasi lebih lengkap dapat dilihat di laporan [Kelompok 9 _ Laporan Tubes Strategi Algoritma.pdf](https://github.com/Otniel113/TugasBesarSA/files/7814261/Kelompok.9._.Laporan.Tubes.Strategi.Algoritma.pdf)
