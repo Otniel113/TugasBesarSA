@@ -69,7 +69,8 @@ Skenario pengujian dilakukan sebanyak 4 kondisi dengan masing-masing kondisi dil
 4. Mengurutkan HDI Subnational dengan MergeSort
 <br>
 Banyak data pada HDI National adalah 186 dan banyak data pada HDI Subnational adalah 1750. <br>
-Hasil pengujian berupa waktu eksekusi dalam detik sebagai berikut
+
+Hasil pengujian berupa waktu eksekusi dalam detik sebagai berikut <br>
 | Skenario | Waktu |
 | -- | -- |
 | 1 | 0.0011 |
